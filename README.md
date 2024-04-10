@@ -1,7 +1,7 @@
 # Employee-Attrition-Analysis
 HR Analytics
 
-#Description
+# Description
 
 To analyze the attrition rate of 1470 employee entries from the dataset and derive 
 results by department, gender, age, and salary slab.
